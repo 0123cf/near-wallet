@@ -1,7 +1,7 @@
 # CatMask Wallet project
 
-<img width="200" src="/readme/overViewImg.png" />
-<img width="500" src="/readme/message.png" />
+<img width="200" src="https://github.com/CatMask-Wallet/near-wallet/blob/main/readme/overViewImg.png" />
+<img width="500" src="https://github.com/CatMask-Wallet/near-wallet/blob/main/readme//message.png" />
 
 ## Add Catmask to browser
 
